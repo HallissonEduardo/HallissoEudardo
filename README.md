@@ -1,4 +1,4 @@
-# Olá, Me chamo Hallisson! 👋
+# Hallisson Eduardo! 👋
 
 Sou estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e desenvolvedor Python especializado em **RPA** para automação de rotinas fiscais no Windows.
 
@@ -14,9 +14,10 @@ Sou estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera 
 ## 💻 Minhas Ferramentas e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 
