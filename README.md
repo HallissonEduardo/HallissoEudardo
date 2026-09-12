@@ -16,4 +16,4 @@ Desenvolvedor Python especializado em **RPA (Robotic Process Automation)** para 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Minhas Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radium)](https://github.com/HallissonEduardo)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HallissonEduardo&show_icons=true&theme=radium)](https://github.com/HallissonEduardo)
