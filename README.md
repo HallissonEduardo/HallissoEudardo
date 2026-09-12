@@ -15,7 +15,6 @@ Sou estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -24,7 +23,7 @@ Sou estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera 
 ## 🤖 Projetos em Destaque
 
 ### 🔹 RPA REINF/DCTFWEB — Alterdata Fiscal
-Automação completa do fluxo de apuração REINF/DCTFWEB no Alterdata Fiscal, com roteamento PF/PJ, regras fiscais de IRRF centralizadas e lógica de retry para falhas de interface. Arquitetura com injeção de dependência (DatabaseManager, ExcelFormatter, GoogleDriveManager). Validado contra planilha de referência com 130 registros consolidados.
+Automação completa do fluxo de apuração REINF/DCTFWEB no Alterdata Fiscal, com roteamento PF/PJ, regras fiscais de IRRF centralizadas e lógica de retry para falhas de interface. Arquitetura com injeção de dependência (DatabaseManager, ExcelFormatter, GoogleDriveManager). Validado contra planilha de referência com 60 registros consolidados.
 
 ### 🔹 RPA EFD Contribuições (SPED)
 Pipeline de 9 módulos para processamento em lote de arquivos SPED (1 a 10 por execução), com reinício automático e retry em caso de falha. Inclui geração de arquivos EFD "sem movimento" via formulário Tkinter. **Em produção.**
