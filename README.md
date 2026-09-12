@@ -8,7 +8,8 @@ Estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e de
 - 📄 Extração e geração de dados com **pdfplumber** e **openpyxl**
 - 🖥️ Interfaces de controle com **Tkinter**
 
-- 📫 Como chegar até mim: https://www.linkedin.com/in/hallisson-edu-30697a426/ ou hallissonedu08@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/hallisson-edu-30697a426/)
+- [hallissonedu08@gmail.com](mailto:hallissonedu08@gmail.com)
 
 ## 💻 Minhas Ferramentas e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
