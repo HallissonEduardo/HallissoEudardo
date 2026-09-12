@@ -17,6 +17,7 @@ Desenvolvedor Python especializado em **RPA (Robotic Process Automation)** para 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 Minhas Estatísticas
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HallissonEduardo&show_icons=true&theme=radium)](https://github.com/HallissonEduardo)
 
 
