@@ -19,6 +19,8 @@ Estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e de
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
+
 ## 🤖 Projetos em Destaque
 
 ### 🔹 RPA REINF/DCTFWEB — Alterdata Fiscal
