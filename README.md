@@ -1,6 +1,6 @@
 # Olá, Me chamo Hallisson! 👋
 
-Estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e desenvolvedor Python especializado em **RPA** para automação de rotinas fiscais no Windows.
+Sou estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e desenvolvedor Python especializado em **RPA** para automação de rotinas fiscais no Windows.
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em automações fiscais (REINF, DCTFWEB, SPED, ICMS, IRRF)
