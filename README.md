@@ -34,3 +34,5 @@ Pipeline de 9 módulos, com arquitetura produtor-consumidor via threading, que m
 
 ### 🔹 RPA_Alterdata_NotasF — Automação via Win32 API
 Toolkit de automação de baixo nível para o Alterdata (aplicação Delphi/DevExpress), usando Win32 API para contornar limitações de foco e detecção de componentes de hover, incluindo scripts de diagnóstico de UI via `EnumChildWindows` e `WindowFromPoint`. **Em produção.**
+
+
