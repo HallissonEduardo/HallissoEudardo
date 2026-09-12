@@ -1,13 +1,13 @@
 # Olá, eu sou o Hallisson! 👋
 
-Desenvolvedor Python especializado em **RPA (Robotic Process Automation)** para automação de rotinas fiscais no Windows. Construo robôs que eliminam trabalho manual repetitivo em sistemas como Alterdata, integrando leitura de planilhas, extração de PDFs e automação de interface desktop.
+Estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e desenvolvedor Python especializado em **RPA** para automação de rotinas fiscais no Windows.
 
 ## 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em automações fiscais (REINF, DCTFWEB, SPED, ICMS, IRRF)
 - 🛠️ Construo RPAs desktop com **pyautogui, pywinauto e Win32 API**
 - 📄 Extração e geração de dados com **pdfplumber** e **openpyxl**
 - 🖥️ Interfaces de controle com **Tkinter**
-- 💬 Pergunte-me sobre **automação de processos fiscais** e **RPA em Python**
+
 - 📫 Como chegar até mim: [Seu LinkedIn] ou [Seu Email]
 
 ## 💻 Minhas Ferramentas e Tecnologias
