@@ -8,13 +8,14 @@ Estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e de
 - 📄 Extração e geração de dados com **pdfplumber** e **openpyxl**
 - 🖥️ Interfaces de controle com **Tkinter**
 
-- 📫 Como chegar até mim: [Seu LinkedIn] ou [Seu Email]
+- 📫 Como chegar até mim: [https://www.linkedin.com/in/hallisson-edu-30697a426/] ou [hallissonedu08@gmail.com]
 
 ## 💻 Minhas Ferramentas e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## 🤖 Projetos em Destaque
