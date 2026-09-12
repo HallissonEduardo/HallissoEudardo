@@ -1,4 +1,4 @@
-# Olá, eu sou o Hallisson! 👋
+# Olá, Me chamo Hallisson! 👋
 
 Estudante de **ADS (Análise e Desenvolvimento de Sistemas)** na Anhanguera e desenvolvedor Python especializado em **RPA** para automação de rotinas fiscais no Windows.
 
